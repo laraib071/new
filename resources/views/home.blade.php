@@ -18,7 +18,7 @@
 @yield('content')
 @if(Request::is('about','/'))
 <div class="container p-5 bg-primary">
-<h1 >Abdul Rafay Javed.</h1>
+<h1 >Laraib Sajjad.</h1>
 <h1>FA17-BSE-071.</h1>
 <h1>FA17-BSE-5B.</h1>
 </div>
